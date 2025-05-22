@@ -11,7 +11,7 @@ Column Type Annotation using LLMs
 This repo is based on [Amir's code and data](https://github.com/amirbabamahmoudi/LLM-for-CTA) with some changes and restructuring.
 
 * ## dataset
-The datasets (test and train) are in the data folder.
+The datasets (test and train) are in the data folder. Add the large file [RAG_2000_sample.csv](https://github.com/drafiei/llms-for-cta/releases/download/v1.0/RAG_2000_sample.csv) before running the code.
 
 
 ## setup
