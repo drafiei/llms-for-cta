@@ -31,7 +31,7 @@ $ echo "The file exp-log.txt has the log."
 @article{babamahmoudi2025cta,
   title={Improving Column Type Annotation Using Large Language Models},
   author={Babamahmoudi, Amir and Rafiei, Davood and Nascimento, Mario A.},
-  journal={tba},
+  journal={VLDB 25 Workshop on Tabular Data Analysis},
   year={2025}
 }
 ```
